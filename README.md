@@ -1,2 +1,2 @@
 # Foodie-App
-A basic Android application which shows us various restaurants and their prices.
+A basic Android application using Java in Android Studio which shows us various restaurants and their prices.
